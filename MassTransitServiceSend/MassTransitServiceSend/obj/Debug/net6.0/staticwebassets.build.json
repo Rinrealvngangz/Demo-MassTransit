@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xVcjpS0jJbMsegX6sAzm+qzl9zL+AsjO3sJvlYoP4/o=",
+  "Source": "MassTransitServiceSend",
+  "BasePath": "_content/MassTransitServiceSend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

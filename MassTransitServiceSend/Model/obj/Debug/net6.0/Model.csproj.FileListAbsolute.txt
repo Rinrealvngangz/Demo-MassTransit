@@ -1,0 +1,12 @@
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/bin/Debug/net6.0/Model.deps.json
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/bin/Debug/net6.0/Model.dll
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/bin/Debug/net6.0/ref/Model.dll
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/bin/Debug/net6.0/Model.pdb
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.csproj.AssemblyReference.cache
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.AssemblyInfoInputs.cache
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.AssemblyInfo.cs
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.csproj.CoreCompileInputs.cache
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.dll
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/ref/Model.dll
+/Users/nguyenmautuan/Documents/C#/MassTransit/MassTransitServiceSend/Model/obj/Debug/net6.0/Model.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitServiceSend", "MassTransitServiceSend\MassTransitServiceSend.csproj", "{F1E2EB6F-5E9B-499B-ABE4-CE45733EB1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{CE96F0F6-E34E-4E6A-AF5C-B79B8450AACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivedService", "ReceivedService\ReceivedService.csproj", "{578BDD90-E431-4C19-8E5F-87AB2C5FFFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E2EB6F-5E9B-499B-ABE4-CE45733EB1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E2EB6F-5E9B-499B-ABE4-CE45733EB1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E2EB6F-5E9B-499B-ABE4-CE45733EB1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E2EB6F-5E9B-499B-ABE4-CE45733EB1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE96F0F6-E34E-4E6A-AF5C-B79B8450AACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE96F0F6-E34E-4E6A-AF5C-B79B8450AACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE96F0F6-E34E-4E6A-AF5C-B79B8450AACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE96F0F6-E34E-4E6A-AF5C-B79B8450AACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578BDD90-E431-4C19-8E5F-87AB2C5FFFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578BDD90-E431-4C19-8E5F-87AB2C5FFFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578BDD90-E431-4C19-8E5F-87AB2C5FFFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578BDD90-E431-4C19-8E5F-87AB2C5FFFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
